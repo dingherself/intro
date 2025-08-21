@@ -1,7 +1,8 @@
 ---
 layout: toc
 title: Syllabus
-group: navigation
+navtitle: Syllabus
+group: syllabus
 order: 5
 date: 2025-08-20
 ---
