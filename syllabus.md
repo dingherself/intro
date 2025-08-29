@@ -75,7 +75,7 @@ Among these texts, there are a few that we’ll be using extensively; you might 
   <span style="font-size: 0.93rem;">NB: Butler Library has <a href="https://clio.columbia.edu/catalog/17347633">a copy</a> in circulation.</span>
 </div>
 
-- Plato, *The Trial and Death of Socrates*, 3rd ed., trans. G. M. A. Grube (Indianapolis, IN: Hackett, 2001). Paperback, 978-0872205543, \$8.50.
+- Plato, *The Trial and Death of Socrates*, trans. G. M. A. Grube, 3rd ed. (Indianapolis, IN: Hackett, 2001). Paperback, 978-0872205543, \$8.50.
 
 <div class="alert alert-light" role="alert">
   <span style="font-size: 0.93rem;">NB: Other editions/translations that include <em>Euthyphro</em>, <em>Apology</em>, and <em>Crito</em> also work (such as Hackett’s <em>Plato: Five Dialogues</em>), but make sure you get one with those <a href="https://web.archive.org/web/20240606005527/https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>really</em> serious about your collection, consider getting John M. Cooper and D. S. Hutchinson, eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
