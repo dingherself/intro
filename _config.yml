@@ -70,11 +70,11 @@ section2:             "Sec. 003"
 meeting_time2:     "MW 4:10–5:25pm"
 classroom2:            "Diana Center 203"
 learning_site2:       "https://courseworks2.columbia.edu/courses/224361"
-#ta_title: "Grader"
-#ta_name: "Ryan Hauger (he/him)"
-#ta_netid: "ryanellishauger"
-#ta_office: "TBD"
-#ta_office_hours: "By appointment"
+ta_title: "Teaching assistant (sec. 003 only)"
+ta_name: "Nicholas J. Witchey"
+ta_netid: "njw2135"
+ta_office: "TBD"
+ta_office_hours: "TBD"
 
 # Custom variables
 #current_version:      4.0.0
