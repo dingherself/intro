@@ -40,7 +40,7 @@ date: 2025-08-29
 
 ## Course Description
 
-This course introduces students to philosophers’ attempts to confront many of life’s great questions—why are we here? is there a higher power? do we live in a simulation? can computers think? is time travel possible? are we truly free? what’s a good life? how should we live together? why does justice require of us?
+This course introduces students to philosophers’ attempts to confront many of life’s great questions—why are we here? is there a higher power? do we live in a simulation? can computers think? is time travel possible? are we truly free? what’s a good life? how should we live together? what does justice require of us?
 
 We will proceed roughly chronologically, traveling from the ancient Chinese and Greek traditions to medieval Christian, Islamic, and Jewish philosophies; to modern European philosophy; and to contemporary analytic and continental traditions.
 
