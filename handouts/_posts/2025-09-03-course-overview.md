@@ -66,6 +66,11 @@ Jennifer Morton, in today’s reading, considers three answers:
   - When I challenge you with follow-up questions, it means I’m interested in what you are saying, not that I’m upset with you!!
   - Sometimes people read my sense of humor as passive aggression—I want to clarify that.
 
+### Teaching Assistant for Sec. 003
+
+- If you are enrolled in the afternoon/larger section, your first point of contact for questions et alia is our TA, Nick Witchey.
+- If your section is in the morning, I’m your go-to person; please do not reach out to Nick.
+
 ### Office hours
 
 - Come to talk to me about both the substance and the logistics of the course; I would also genuinely love to get to know you more!
