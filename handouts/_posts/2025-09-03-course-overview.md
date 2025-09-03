@@ -34,11 +34,9 @@ Jennifer Morton, in today’s reading, considers three answers:
 - Philosophy teaches [critical thinking and analytical writing](https://dailynous.com/value-of-philosophy/charts-and-graphs).
   - Morton finds this “dispassionate answer” to be “rather disappointing” (p. 103) Why do you think that is? 
 - Philosophy aims at fundamental truths.
-  - Why does Morton reject this answer as well?
-  - Is this right?
+  - Why does Morton reject this answer as well? Is this right?
 - Morton’s answer: Philosophy offers an “antidote to the uncritical acceptance of the world and ourselves as we are” (p. 104).
-  - What does this amount to?
-    - Merely critical vs. also constructive/imaginative/remedial
+  - What does this amount to? Morton on the merely critical vs. also constructive/imaginative/remedial.
 
 *Question for discussion: Does Morton’s answer also sell philosophy short?*
 
@@ -46,10 +44,13 @@ Jennifer Morton, in today’s reading, considers three answers:
 
 ### Philosophy is an activity we do, not specific facts to be memorized.
 
-- We will work with primary rather than secondary texts.
-- We will engage with our authors as *equal participants* in a long conversation.
+- Philosophy is a distinctive genre of texts: We are going to work with primary rather than secondary texts.
+- Philosophy is democratic: We treat these famous philosophers as *our equals* in a long conversation; philosophy really is for everybody.
+- Philosophy is anti-dogmatic: We believe something not because parents, society, etc., told us so, but because we reflectively endorse and “own up to” them.
+- So, philosophy is not “just opinions”: Ideas and even truths abound. Not every idea ought to be taken equally seriously, nor is every truth equally significant. Don’t forget to ask: Is this right? What are we trying to do here?
+- Good philosophy should also be fun! I want us to get our hands directly, so to speak.
 
-### I want us to think of our classroom as where we come to *do philosophy together*.
+### I’d like us to think of our classroom as where we come to *do philosophy together!
 
 - Usual class structure: Brief introduction -> small group discussion -> whole class discussion -> what I want you to out of from the reading -> whole class discussion.
 - To make this work, I expect everybody to have read the assigned readings *carefully* and *critically* before coming to class (see the syllabus for tips).
@@ -58,7 +59,7 @@ Jennifer Morton, in today’s reading, considers three answers:
 - There will be a handout posted the course website; take your own notes as well.
 - Don’t be afraid to ask right away if you have a question, if you are not sure what we are doing, if I use a word you don’t understand, etc.
 
-### Let’s take care of each other
+### Let’s take care of each other!
 
 - Some of the materials will be difficult for a lot of students; I’m here if you need to talk.
 - Philosophy is full of disagreements.
@@ -75,7 +76,7 @@ Jennifer Morton, in today’s reading, considers three answers:
 
 - Come to talk to me about both the substance and the logistics of the course; I would also genuinely love to get to know you more!
 - No signups needed; candy box provided.
-- If my office hours don’t work for you, please propose three or four times for an appointment.
+- If my office hours don’t work for you, please suggest three or four times for us to meet (“make an appointment”).
 
 **Ideas are powerful—don’t underestimate them!**
 
@@ -85,14 +86,14 @@ Please reach out if there’s something going on in your life (it happens!).
 
 ### Absences
 
-- Email me if there’s a reason you can’t come to class (I consider mental health a legitimate reason for missing class).
-- To catch up: do the reading, read the handout, get notes from at least two classmates, and come to office hours to discuss any questions/thoughts you have.
+- Email me if there’s a reason you can’t come to class (I consider mental health to be a legitimate reason for missing class).
+- To catch up: do the readings, read the handout, get notes from at least two classmates, and come to office hours to discuss questions/thoughts.
 
 ### Makeups & extensions
 
-- If you email me 6 hours prior to the deadline: no questions asked.
-- A little bit later: a little bit of question asked.
-- Much later: a legitimate reason expected.
+- If you email me six hours prior to the deadline: No questions asked.
+- A little bit later: A little bit of question asked.
+- Much later: A legitimate reason expected.
 
 ## Tour of …
 
