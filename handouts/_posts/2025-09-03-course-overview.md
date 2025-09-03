@@ -74,7 +74,7 @@ Jennifer Morton, in today’s reading, considers three answers:
 
 ### Office hours
 
-- Come to talk to me about both the substance and the logistics of the course; I would also genuinely love to get to know you more!
+- Come talk to me about both the substance and the logistics of the course; I would also genuinely love to get to know you more!
 - No signups needed; candy jar provided.
 - If my office hours don’t work for you, please suggest three or four times for us to meet (“make an appointment”).
 
@@ -87,12 +87,12 @@ Please reach out if there’s something going on in your life (it happens!).
 ### Absences
 
 - Email me if there’s a reason you can’t come to class (I consider mental health to be a legitimate reason for missing class).
-- To catch up: do the readings, read the handout, get notes from at least two classmates, and come to office hours to discuss questions/thoughts.
+- To catch up: Do the readings, read the handout, get notes from at least two classmates, and come to office hours to discuss questions/thoughts.
 
 ### Makeups & extensions
 
 - If you email me six hours prior to the deadline: No questions asked.
-- A little bit later: A little bit of question asked.
+- A little bit later: A little bit of questions asked.
 - Much later: A legitimate reason expected.
 
 ## Tour of …
