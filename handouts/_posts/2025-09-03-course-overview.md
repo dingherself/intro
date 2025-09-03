@@ -100,7 +100,7 @@ Please reach out if there’s something going on in your life (it happens!).
 - Course website: <https://intro.dingherself.com>
   - We will use CourseWroks only for things that need to be hidden behind a password (assignments/grades/certain readings).
 - Reading schedule
-  - Chronical logic + thematic logic.
+  - Chronological logic + thematic logic.
   - The diversification discussion in philosophy.
   - If a reading is not directly linked, I will upload it to CourseWorks > Files.
 
