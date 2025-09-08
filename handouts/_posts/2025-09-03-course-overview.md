@@ -113,6 +113,6 @@ Please reach out if there’s something going on in your life (it happens!).
   - Confucius [*Kongfuzi* 孔夫子, or *Kongzi* 孔子 for short]: roughly, ‘Master Kong.’
     - *Fuzi*: A gendered honorific for men, [male] teachers, and husbands.
     - *Kong*: His family name.
-  - *Analects* [*Lunyu* 论语]: roughly, ‘collected sayings.’
-    - There is a pun of sorts: *lun* means both ‘discuss’ and ‘select’; *yu* means ‘sayings’ or ‘speeches.’
+  - *Analects* [*Lunyu* 论语]: Roughly, ‘collected sayings.’
+    - There is a pun of sorts: *Lun* means both ‘discuss’ and ‘select’; *yu* means ‘sayings’ or ‘speeches.’
   - The introduction in our selections is a useful overview of some important concepts.
