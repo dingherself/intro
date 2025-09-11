@@ -28,14 +28,14 @@ date: 2025-08-29
 {% if site.ta_title %}
 <script language="JavaScript" type="text/javascript">
       var g = "edu";
-      var o = "arizona";
+      var o = "columbia";
       var c = ".";
       var i = "{{ site.ta_netid }}";
       var t = " ";
       var s = "@";
       document.write("<p><strong>{{ site.ta_title}}</strong>: {{ site.ta_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + i + s + o + c + g + "'>" + i + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.ta_office }}<br /><strong>Office hours</strong>: {{ site.ta_office_hours }}<br />" + "</p>");
 </script>
-<noscript><p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: TBD<br /><strong>Office hours</strong>: By appointment<br /></p></noscript>
+<noscript><p><strong>{{ site.ta_title}}</strong>: {{ site.ta_name | smartify }}<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.ta_office }}<br /><strong>Office hours</strong>: {{ site.ta_office_hours }}<br /></p></noscript>
 {% endif %}
 
 ## Course Description
