@@ -24,7 +24,7 @@ module: "Portraits of a philosopher"
 “Presocratic philosophers”: Philosophers prior to Socrates.
 
 - Not really a time thing: Many of the presocratic philosophers and Socrates were contemporaries. 
-  - Note the implication: Socrates is used here as a special reference point; the subtext is that philosophy *really* began with Socrates.
+  - Note the implication: Socrates is used here as a special reference point; the subtext is that [Western!] philosophy *really* began with Socrates.
 - The presocratic philosophers didn’t (and couldn’t) quite identify as philosophers, even though what they did has come to be recognized as philosophical.
   - They were predecessors to Socrates, Plato, and Aristotle in a distinct lineage.
   - Their questions, concerns, and methods were inherited by S/P/A and have come to define the Western philosophical tradition.
@@ -52,7 +52,7 @@ Cf. Parmenides’ goddess (fr. 2):
 > For neither can you know what is not (for it is not to be accomplished)<br />
 > nor can you declare it.
 
-Among the presocratics, the first principle is characteristically identified as an originating point—i.e., the stuff out of which everything originated.
+Among the presocratics, the first principle is characteristically identified as an originating point—i.e., the stuff/matter out of which everything originated.
 
 - Heraclitus: Fire.
 - Thales (predating Heraclitus’ *logos* talk): Water.
@@ -62,14 +62,17 @@ Among the presocratics, the first principle is characteristically identified as 
 
 ## Another illustrative example: Sappho of Lesbos
 
+- Entry in Witting & Zerg’s *Lesbian Peoples: Material for a Dictionary*.
+  - Both “sapphic” and “lesbian” allude to Sappho.
+
 - Not generally recognized as a lesbian until quite recently.
   - Patriarchy took my girl: Fr. 31.
   - Too gay to function: Fr. 94.
 - Not generally recognized as a philosopher.
-  - Sappho is clearly interested in a kind of wisdom, but:
-    - She reflects on love (a full-body experience vs. a mere feeling), desire, longing (“yearn”), memory, change, sorrow, family, [women’s] beauty …
-    - She loves wisdom in a different way: A focus on the sensual, the affective, the bodily, the romantic, the erotic.
-  - Does this still make her a philosopher? Who gets to decide this?
-  - “I say someone in another time will remember us” (fr. 147).
+  - Sappho is clearly interested in wisdom, but:
+    - She reflects on love/*eros* (a full-body experience vs. a mere feeling), desire, longing (“yearn”), memory, change, sorrow, family, [women’s] beauty …
+    - She loves wisdom in an affective (cf. rational—but be careful about drawing a sharp line) way: A focus on the sensual, the bodily, the romantic, the erotic.
+  - Does this still make her a philosopher? Who gets to decide this? What’s at stake?
+- “I say someone in another time will remember us” (fr. 147).
 
 *In-class activity: Which of the fragments we read for today made you think the most? Tell me something about it!*
