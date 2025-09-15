@@ -62,7 +62,7 @@ Among the presocratics, the first principle is characteristically identified as 
 
 ## Another illustrative example: Sappho of Lesbos
 
-- Entry in Witting & Zerg’s *Lesbian Peoples: Material for a Dictionary*.
+- Entry in Witting & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
   - Both “sapphic” and “lesbian” allude to Sappho.
 
 - Not generally recognized as a lesbian until quite recently.
