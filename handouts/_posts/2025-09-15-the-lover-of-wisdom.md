@@ -43,13 +43,13 @@ Two closely connected meanings of *logos*:
 
 Cf. Parmenides’ goddess (fr. 2):
 
-> But come now, I will tell you—and you, when you have heard the story, bring it safely away—
-> which are the only routes of inquiry that are for thinking:
-> the one, that is and that it is not possible for it not to be,
-> is the path of Persuasion (for it attends upon Truth),
-> the other, that it is not and that it is right that it not be,
-> this indeed I declare to you to be a path entirely unable to be investigated:
-> For neither can you know what is not (for it is not to be accomplished)
+> But come now, I will tell you—and you, when you have heard the story, bring it safely away—<br />
+> which are the only routes of inquiry that are for thinking:<br />
+> the one, that is and that it is not possible for it not to be,<br />
+> is the path of Persuasion (for it attends upon Truth),<br />
+> the other, that it is not and that it is right that it not be,<br />
+> this indeed I declare to you to be a path entirely unable to be investigated:<br />
+> For neither can you know what is not (for it is not to be accomplished)<br />
 > nor can you declare it.
 
 Among the presocratics, the first principle is characteristically identified as an originating point—i.e., the stuff out of which everything originated.
