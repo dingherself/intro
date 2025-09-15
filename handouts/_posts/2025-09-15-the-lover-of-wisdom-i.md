@@ -58,7 +58,7 @@ Among the presocratics, the first principle is characteristically identified as 
 - Thales (predating Heraclitus’ *logos* talk): Water.
 - Anaximander (also predating Heraclitus): *Apeiron*.
   - “[The first principle] is neither water nor any of the other things called elements, but some other nature which is *apeiron*, out of which come to be all the heavens and the worlds in them” (12A9 + 12B1).
-  - “He declares that what arose from the eternal and is productive of [or, “capable of giving birth to”] hot and cold was separated off at the coming to be of this *kosmos*, and a kind of sphere of flame from this grew around the dark mist about the earth like bark about a tree. When it was broken off and enclosed in certain circles, the sun, moon, and stars came to be” (12A10).
+  - “He declares that what arose from the eternal and is productive of [or, ‘capable of giving birth to’] hot and cold was separated off at the coming to be of this *kosmos*, and a kind of sphere of flame from this grew around the dark mist about the earth like bark about a tree. When it was broken off and enclosed in certain circles, the sun, moon, and stars came to be” (12A10).
 
 ## Another illustrative example: Sappho of Lesbos
 
