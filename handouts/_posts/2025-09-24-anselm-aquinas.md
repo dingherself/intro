@@ -10,10 +10,10 @@ Two kinds of knowledge:
 
 - *A priori*: Can be justified without appealing directly to experience.
   - Example: Freedom of speech includes a right to protest.
-  - The ontological argument seeks to prove God’s existence *a priori*.
+  - The ontological argument seeks to demonstrate God’s existence *a priori*.
 - *A posteriori*: Cannot be justified without appealing directly to experience.
   - Example: NYC’s waste management facilities are [concentrated in communities of color](https://experience.arcgis.com/experience/6a3da7b920f248af961554bdf01d668b).
-  - The cosmological argument seeks to prove God’s existence *a posteriori*.
+  - The cosmological argument seeks to demonstrate God’s existence *a posteriori*.
 
 ## Anselm’s Ontological Argument
 
