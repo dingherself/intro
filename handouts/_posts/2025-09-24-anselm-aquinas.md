@@ -32,7 +32,7 @@ For Anselm, God =<sub>df</sub> that than which nothing greater can be thought.
 
 *Reductio ad absurdum*: P leads to absurdity; therefore, not P.
 
-The crucial move: A perfect’s being essence implies its existence.
+The crucial move: A perfect being’s essence implies its existence.
 
 ### Gaunilo’s perfect island
 
