@@ -12,7 +12,7 @@ Two kinds of knowledge:
   - Example: Freedom of speech includes a right to protest.
   - The ontological argument seeks to prove God’s existence *a priori*.
 - *A posteriori*: Cannot be justified without appealing directly to experience.
-  - Example: NYC’s waste management facilities are concentrated in communities of color.
+  - Example: NYC’s waste management facilities are [concentrated in communities of color](https://experience.arcgis.com/experience/6a3da7b920f248af961554bdf01d668b).
   - The cosmological argument seeks to prove God’s existence *a posteriori*.
 
 ## Anselm’s Ontological Argument
@@ -32,7 +32,7 @@ For Anselm, God =<sub>df</sub> that than which nothing greater can be thought.
 
 *Reductio ab absurdum*: P leads to absurdity; therefore, not P.
 
-The crucial move: Essence can imply existence.
+The crucial move: A perfect’s being essence implies its existence.
 
 ### Gaunilo’s perfect island
 
@@ -53,6 +53,7 @@ Weak points:
 
 - Against (2): Self-moved movement?
 - Against (3): Can’t the chain go back forever?
-  - A moved by B moved by C moved by A…
+  - Eternal chain: Aristotle.
+  - Circular chain: A moved by B moved by C moved by A…
 - Against (5): Does the unmoved first mover have to be God?
   - Is the unmoved first mover all-powerful? all-good? all-knowing?
