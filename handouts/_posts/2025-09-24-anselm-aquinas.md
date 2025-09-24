@@ -30,7 +30,7 @@ For Anselm, God =<sub>df</sub> that than which nothing greater can be thought.
 7. Contradiction. (Follows from 5, 6)
 8. Therefore, reject 1: God exists in reality.
 
-*Reductio ab absurdum*: P leads to absurdity; therefore, not P.
+*Reductio ad absurdum*: P leads to absurdity; therefore, not P.
 
 The crucial move: A perfect’s being essence implies its existence.
 
