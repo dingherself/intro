@@ -25,7 +25,7 @@ Evil = privation of good ~ illness = privation of health ~ [Maimonides] darkness
 - Things on earth: Less good & corruptively good but still good.
 - Things entirely deprived of good: Non-existent. Why??
   - *Confessions*: Things entirely deprived of good are immune from further corruption, but being incorruptible makes them good; contradiction.
-  - *Enchiridion*: “Where there is no privation ofthe good, there is no evil.”
+  - *Enchiridion*: “Where there is no privation of the good, there is no evil.”
 
 ## Maimonides on divine providence
 
