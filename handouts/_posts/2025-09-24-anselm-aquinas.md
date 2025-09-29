@@ -38,6 +38,10 @@ The crucial move: A perfect being’s essence implies its existence.
 
 Perfect Island =<sub>df</sub> that than which no greater island can be thought.
 
+### Anselm & Ibn Sina
+
+God’s existence is necessary, not contingent: if God exists at all, he must exist necessarily.
+
 ## Aquinas’ Cosmological Arguments
 
 Let’s focus on the first mover argument: P. 15.
