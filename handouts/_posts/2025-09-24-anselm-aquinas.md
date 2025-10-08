@@ -42,6 +42,10 @@ Perfect Island =<sub>df</sub> that than which no greater island can be thought.
 
 God’s existence is necessary, not contingent: if God exists at all, he must exist necessarily.
 
+<img class="img-fluid rounded mx-auto d-block" alt="xkcd comics: ... But wouldn't a God who could find a flaw in the ontological argument be even greater?" src="https://imgs.xkcd.com/comics/ontological_argument.png">
+
+<p><small><i>xkcd comics: A God who holds the world record for eating the most skateboards is greater than a God who does not hold that record.</i></small></p>
+
 ## Aquinas’ Cosmological Arguments
 
 Let’s focus on the first mover argument: P. 15.
