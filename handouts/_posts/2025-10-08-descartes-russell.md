@@ -20,25 +20,25 @@ What can I be certain of?
 <center>
 <table class="tg mb-5"><thead>
   <tr>
-    <th class="tg-0lax">Level of doubt</th>
-    <th class="tg-0lax">Reason for doubt</th>
-    <th class="tg-0lax">Scope of doubt</th>
+    <th class="tg-baqh">Level of doubt</th>
+    <th class="tg-baqh">Reason for doubt</th>
+    <th class="tg-baqh">Scope of doubt</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">1st</td>
-    <td class="tg-baqh">The senses sometimes deceive us.</td>
-    <td class="tg-baqh">I can’t be certain of beliefs acquired through senses.</td>
+    <td class="tg-baqh">1st</td>
+    <td class="tg-0lax">The senses sometimes deceive us.</td>
+    <td class="tg-0lax">I can’t be certain of beliefs acquired through senses.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2nd</td>
-    <td class="tg-baqh">Being awake and being asleep are indistinguishable.</td>
-    <td class="tg-baqh">I can’t be certain of pretty much anything other than mathematical truths.</td>
+    <td class="tg-baqh">2nd</td>
+    <td class="tg-0lax">Being awake and being asleep are indistinguishable.</td>
+    <td class="tg-0lax">I can’t be certain of pretty much anything other than mathematical truths.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3rd</td>
-    <td class="tg-baqh">I could be deceived by an evil demon.</td>
-    <td class="tg-baqh">Can I be certain of anything?</td>
+    <td class="tg-baqh">3rd</td>
+    <td class="tg-0lax">I could be deceived by an evil demon.</td>
+    <td class="tg-0lax">Can I be certain of anything?</td>
   </tr>
 </tbody>
 </table>
