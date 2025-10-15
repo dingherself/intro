@@ -50,10 +50,10 @@ Lewis (1981):
 Toy example:
 
 - The actual world: P<sub>0</sub> & L → P.
-- Another possible world: P<sub>0</sub> & L<sup>′</sup> → P<sup>′</sup>.
+- Another possible world: P<sub>0</sub> & L′ → P′.
 
 Note:
 
-- P<sup>′</sup> is a law-breaking event only relative to the laws of nature that obtain in the actual world.
+- P′ is a law-breaking event only relative to the laws of nature that obtain in the actual world.
 - The agent retains, even if they do not actually exercise, the ability to raise their hand such that if they raised their hand, *L* would be false.
 - But *P* is also a law-breaking event relative to the laws of nature that possibly obtain in other possible worlds, so local miracles abound!
