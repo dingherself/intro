@@ -26,7 +26,7 @@ module: "Exams & assignments"
 
 *Here I’m organizing the readings/topics organized somewhat differently from how they are presented in the schedule. This is to introduce a second perspective that illuminates their connections.* 
 
-### Metaphilosophy: philosophical questions about philosophy
+### Metaphilosophy: Philosophical questions about philosophy
 
 - Philosophy’s self-conception: What philosophy is interested in and what philosophy can do.
 - The philosopher’s self-conception: The *junzi* vs. the lover of wisdom.
