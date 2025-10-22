@@ -14,7 +14,7 @@ module: "Exams & assignments"
 
 ## A few words about the point of the exam
 
-- Especially for an introductory class like this, I would rather we don’t have any grades. There are [colleges without grades](https://gradingforgrowth.com/p/a-college-that-has-never-had-grades), but Barnard is not one of them.
+- I would rather we didn’t have any grades. There are [colleges without grades](https://gradingforgrowth.com/p/a-college-that-has-never-had-grades), but Barnard is not one of them.
 - So I want us to make the most we can out of what we have to work with. The midterm exam for me is a tool for *teaching*, not testing: I don’t think of the exam as a “test” of my students’ learning; instead, I mean for it to be a planned break—like a lookout point—on a long journey so students can step back, gather themselves, and take time to revisit, absorb, and reflect on what we’ve covered so far.
 - And I’d like to make this a (relatively) fun experience as well! I know that an in-class “essay” sounds scary, but I’m not expecting a polished paper. Try to approach the prompt as a conversation starter: You’ve heard enough from me already; now the mic is yours and I’m really curious to hear *your* take! Imagine we are just hashing this out over brunch on a pleasant Saturday morning (if you still feel nervous, try imagining that you are talking to a friend who has not taken this class). Tell me what the problem space is like—what the issue is, where the constraints lie, how people have tried and failed—and how you are thinking about it.
 
