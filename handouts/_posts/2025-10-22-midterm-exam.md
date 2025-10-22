@@ -59,6 +59,6 @@ module: "Exams & assignments"
 
 *Two of the following prompts will be selected to appear on the exam, and you will be asked to answer <u><strong>one</strong></u> of the two. An excellent essay will build on but go beyond our class discussions in some significant way. Aim for 500–700 words.*
 
-1. Do we have free will?
+1. Do we have free will, and why or why not?
 2. “Demonstrative truth and scriptural truth cannot conflict” (Ibn Rushed, *The Decisive Treatise*). Explain and assess.
 3. “I hadn’t met any [women philosophers] at Hunter [high school] or Barnard, of course. . . . The then chairman of the Columbia philosophy department said when I applied for admission [to the doctoral program] that he hoped I would enjoy doing philosophy for its own sake because I mustn’t suppose I could ever get a job as a teacher of philosophy. He said that philosophy departments don’t hire women except as secretaries. . . . [S]ome years after I had received my Ph.D., and I had asked a friend of my husband’s and mine who was then a member of the Harvard philosophy department whether he thought I could get some TA-ing to do for his department. Our friend said no—his department wouldn’t entrust its undergraduates to women, even as TAs” (Judith Jarvis Thomson, BC ’50). Discuss.
