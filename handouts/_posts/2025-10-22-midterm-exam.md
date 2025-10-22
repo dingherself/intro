@@ -4,6 +4,10 @@ title: "Midterm Exam"
 module: "Exams & assignments"
 ---
 
+<center>
+<img src="{{ site.baseurl }}/assets/how-is-philosophy.jpg" class="img-fluid mb-5" style="max-width: 350px;" alt="Screenshot of a tweet: “Nobody asks HOW is Philosophy.” The photo below shows a tall stack of books with the title “what is philosophy?”">
+</center>
+
 ## Logistics
 
 - Our midterm exam is **Wednesday, October 29**, in our usual classroom and during our usual class time.
