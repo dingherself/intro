@@ -24,7 +24,7 @@ module: "Exams & assignments"
 
 ## Topics it would make sense to review
 
-*Here I’m organizing the readings/topics organized somewhat differently from how they are presented in the schedule. This is to introduce a second perspective that illuminates their connections.* 
+*Here I’m organizing the readings/topics somewhat differently from how they are presented in the schedule. This is to introduce a second perspective that illuminates their connections.* 
 
 ### Metaphilosophy: Philosophical questions about philosophy
 
