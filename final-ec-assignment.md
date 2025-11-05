@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Instructions for the Final Extra Credit Assignment"
 ---
 
