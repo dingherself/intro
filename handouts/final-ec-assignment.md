@@ -2,6 +2,7 @@
 layout: post
 title: "Instructions for the Final Extra Credit Assignment"
 permalink: /final-ec-assignment.html
+category: handouts
 date: 2025-12-08
 ---
 
