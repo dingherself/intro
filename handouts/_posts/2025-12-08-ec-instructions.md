@@ -2,6 +2,7 @@
 layout: post
 title: "Instructions for the Final Extra Credit Assignment"
 module: "EC lectures & events"
+redirect_to: https://intro.dingherself.com/ec-instructions.html
 ---
 
 *Due*: Monday, December 8, in hard copy, at the beginning of class<br />*Format*: 2–3 pages
