@@ -4,7 +4,7 @@ title: Syllabus
 navtitle: Syllabus
 group: syllabus
 order: 5
-date: 2025-08-29
+date: 2025-11-13
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
@@ -143,8 +143,6 @@ The better of your two exams will account for 25% of your final grade, and the o
 ### Final project
 
 You are required to complete a final project for this course. This can be either a traditional term paper or an equally substantial creative project of your choosing---for example, you might want to make a zine, create educational materials on an issue, write a play, design a game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
-
-While I will provide pre-made prompts, you are more than welcome to work with me to craft your own—if this is something you would like to do, please meet with me **by Wednesday, November 19** to discuss your idea. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Wednesday, December 17**.
 
 The final project will make up 25% of your final grade.
 
