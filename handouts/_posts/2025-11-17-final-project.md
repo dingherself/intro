@@ -8,7 +8,7 @@ module: "Exams & assignments"
 
 Please choose ***<u>one</u>*** of the following options for your final project.
 
-<h2 style="margin-bottom: 2.25rem;">Choose Your Philosophical Adventure</h2>
+<h2 style="margin-top: 2.25rem;">Choose Your Philosophical Adventure</h2>
 
 *Length*: 1,000 to 1,500 words.
 
