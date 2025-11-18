@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Final Project Assignment
-module: "Assignments & exams"
+module: "Exams & assignments"
 ---
 
 *Due*: Wednesday, December 17, by midnight, to CourseWorks
