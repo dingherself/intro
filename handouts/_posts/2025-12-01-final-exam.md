@@ -4,7 +4,9 @@ title: "Final Exam"
 module: "Exams & assignments"
 ---
 
+<center>
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:eixqwg4o3sek2deuhyiisbt3/app.bsky.feed.post/3lbyzvqrd222n" data-bluesky-cid="bafyreicvcedgap4bem4v7aridvkas4gk76jajnqelddpayhjqx2ewiycqm" data-bluesky-embed-color-mode="system"><p lang="en">It wasn&#x27;t that viral on Twitter, but to this day, philosophy meme accounts share the screenshot, and then people inform me I am famous and I say, &quot;Oh ok cool&quot;<br><br><a href="https://bsky.app/profile/did:plc:eixqwg4o3sek2deuhyiisbt3/post/3lbyzvqrd222n?ref_src=embed">[image or embed]</a></p>&mdash; Emily Herring (<a href="https://bsky.app/profile/did:plc:eixqwg4o3sek2deuhyiisbt3?ref_src=embed">@emilyherring.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:eixqwg4o3sek2deuhyiisbt3/post/3lbyzvqrd222n?ref_src=embed">November 28, 2024 at 12:10 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+</center>
 
 ## Logistics
 
