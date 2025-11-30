@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Midterm Exam"
+title: "Final Exam"
 module: "Exams & assignments"
 ---
 
