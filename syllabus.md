@@ -11,8 +11,7 @@ date: 2026-01-16
 
 <p class="mt-2"><strong>{{ site.course_number }}: {{ site.course_title_full | smartify }}</strong><br />
 {{ site.institution | smartify }}, {{ site.semester | smartify }}<br />
-{{ site.section1 }}: {{ site.meeting_time1 }}, {{ site.classroom1 | smartify }}, <a href="{{ site.learning_site1 }}">CourseWorks</a><br />
-{{ site.section2 }}: {{ site.meeting_time2 }}, {{ site.classroom2 | smartify }}, <a href="{{ site.learning_site2 }}">CourseWorks</a></p>
+{% if site.section1 %}{{ site.section1 }}: {% endif %}{{ site.meeting_time1 }}, {{ site.classroom1 | smartify }}, <a href="{{ site.learning_site1 }}">CourseWorks</a>{% if site.section2 %}<br />{{ site.section2 }}: {{ site.meeting_time2 }}, {{ site.classroom2 | smartify }}, <a href="{{ site.learning_site2 }}">CourseWorks</a>{% endif %}</p>
 
 <script language="JavaScript" type="text/javascript">
       var g = "edu";
