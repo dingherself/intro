@@ -97,7 +97,7 @@ The purpose of the shorties is threefold: they invite you to critically engage w
 
 You may choose any five classes to write shorties for, as long as you do at least one for each of our three modules—love, gender, and sex. You may also write more than five shorties, in which case only your best five shorties will count toward your final grade.
 
-Shorties are due to CourseWorks > Discussion **by 7:30pm the day before the class**. So, for example, a shorty on a Wednesday’s readings would be due by 7:30pm on the Tuesday of that same week.
+Shorties are due to CourseWorks > Discussions **by 7:30pm the day before the class**. So, for example, a shorty on a Wednesday’s readings would be due by 7:30pm on the Tuesday of that same week.
 
 Shorties will make up 20% of your final grade.
 
