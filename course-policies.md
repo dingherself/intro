@@ -4,18 +4,20 @@ title: Course Policies
 navtitle: Course Policies
 group: syllabus
 order: 10
-date: 2025-08-29
+date: 2026-01-16
 ---
 
 <h2 class="mt-2">Excused Absences</h2>
 
-Please email me if there is a reason you can’t come to class, but you *don’t* need to show me any kind of documentation. This is an honor system, and I trust you not to abuse it—all I ask is you also be flexible and considerate when you are in a position of power to do so.
+If there is a reason you can’t come to class, please [fill out this form](https://forms.gle/DJHV9wwxPpTKTq4r7) to record an excused absence. You *don’t* need to show us any kind of documentation. This is an honor system, and we trust you not to abuse it—all we ask is you also be flexible and considerate when you are in a position of power to do so.
+
+If there is something you’d like us to know, please also email me and our TA to make sure that we see it.
 
 ## Late Assignments, Extensions, and Make-Ups
 
-No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show me any kind of documentation.
+No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show us any kind of documentation.
 
-As an instructor, I always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as health (including mental health), child care, and family emergencies. We can always work something out, but it’s important that you contact me as soon as you can.
+We always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as health (including mental health), child care, and family emergencies. We can always work something out, but it’s important that you contact me as soon as you can.
 
 ## Academic Integrity
 
@@ -28,17 +30,17 @@ Approved by the student body in 1912 and updated in 2016, the Code states:
 
 ### Plagiarism
 
-**I view plagiarism as a *very* serious violation of the Barnard Honor Code, and you should as well.** I strongly encourage you to review this helpful guide: <https://lib.arizona.edu/research/sources/plagiarism>{: .text-break}. I understand that different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for purposes of our course, please don’t hesitate to ask me.
+**I view plagiarism as a *very* serious violation of the Barnard Honor Code, and you should as well.** I strongly encourage you to review this helpful guide: <https://lib.arizona.edu/research/sources/plagiarism>{: .text-break}. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for purposes of our course, please don’t hesitate to ask me.
 
 ### Use of generative AI tools
 
 I consider it an important component of digital literacy that students appreciate the strengths as well as limitations and real-world impact of generative artificial intelligence (AI) tools such as ChatGPT.
 
-For philosophy in particular, while generative AI tools may be useful for finding the right phrase, clarifying and polishing prose, and brainstorming worries, they are prone to fabricate facts, misunderstand views, produce word salads, maintain forced neutrality and balance of sides, default to popular rather than critical, considered perspectives, and approach issues in ways uninformed by our course materials and class discussions. To experienced and sophisticated readers of philosophy, these are not only telltale signs but serious problems with both the writing and the substance.
+For philosophy in particular, while generative AI tools may be very useful for finding the right phrase, clarifying and polishing prose, coming up with examples, brainstorming objections, and outlining and summarizing texts that the user puts in, they are prone to fabricate facts, misunderstand views, produce word salads, maintain forced neutrality and balance of sides, default to popular rather than critical, considered perspectives, and approach issues in ways uninformed by our course materials and class discussions. To experienced and sophisticated readers of philosophy, these are not only telltale signs, but serious problems with both the writing and the substance.
 
 In addition, we are only beginning to understand the ethical issues behind the [data](https://www.vox.com/technology/2023/7/27/23808499/ai-openai-google-meta-data-privacy-nope) used to train generative AI tools and the [racism](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/), [sexism](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes), [cisheterosexism](https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/), and [ableism](https://blog.apaonline.org/2023/03/30/ableism-and-chatgpt-why-people-fear-it-versus-why-they-should-fear-it/) that these tools then inherit. The environmental costs of the infrastructure on which generative AI tools run are concerning as well—including, for example, their staggering [water](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) and [energy](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising) consumption.
 
-My own policy is to prohibit students from turning in *as their own work* either (1) passages (beyond a single word or phrase) directly produced by generative AI tools or (2) ideas, arguments, distinctions, claims, analyses, and the like substantially informed by their use of generative AI tools. **Just for purposes of academic integrity, the most salient consideration to me is *misrepresentation*: what I care about is whether a student’s failure to acknowledge the origin of a passage or idea is likely to mislead, that is, to falsely imply that the student has written or come up with it themself.** Contrast this with searching “synonyms for ‘retroactive laws’ ” on Google and with brainstorming ideas for a paper with a friend. In the Google case, acknowledgment is unnecessary because no one would think the phrase ‘*ex post facto* laws’ is therefore implied to have been invented by the student (but if the student uses a *specific* way of explaining what it means for laws to be *ex post facto*, which they have found through the Google search, then that would require proper citation). In the friend case, acknowledgment is necessary because the friend is a significant reason that the student could think of the paper idea in the first place (this is even more obvious when the friend helps the student to come up with specific ways of putting the idea into words).
+My own policy is to prohibit students from turning in *as their own work* either (1) passages (beyond a single word or phrase) directly produced by generative AI tools, or (2) ideas, arguments, distinctions, claims, analyses, and the like substantially informed by their use of generative AI tools. **Just for purposes of academic integrity, the most salient consideration to me is *misrepresentation*: what I care about is whether a student’s failure to acknowledge the origin of a passage or idea is likely to mislead, that is, to falsely imply that the student has written or come up with it themself.** Contrast this with searching “synonyms for ‘retroactive laws’ ” on Google and with brainstorming ideas for a paper with a friend. In the Google case, acknowledgment is unnecessary because no one would think the phrase ‘*ex post facto* laws’ is therefore implied to have been invented by the student (but if the student uses a *specific* way of explaining what it means for laws to be *ex post facto*, which they have found through the Google search, then that would require proper citation). In the friend case, acknowledgment is necessary because the friend is a significant reason that the student could think of the paper idea in the first place (this is even more obvious when the friend helps the student to come up with specific ways of putting the idea into words).
 
 ## Respect, Support, and Care for One Another
 
