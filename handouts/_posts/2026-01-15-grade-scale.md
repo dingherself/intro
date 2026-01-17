@@ -10,7 +10,7 @@ At Arizona, the grades we got on assignments already didn’t matter, if they we
 
 My advisor went one step further: Even if his grades didn’t matter in the end, they could still serve a powerful pedagogical function—to signal to us how we were progressing as we learned to become scholars and produce work of publishable quality. If getting a ‘10’ meant “publish this as is” then, a 7 or even an 8 gave first- and second-year PhD students something to feel proud of. These numbers no longer had the same meanings as a ‘C’ or ‘B.’
 
-This blew my mind and changed my life. I was not just born a perfectionist; I was socialized into one. One of my biggest regrets in college was getting an A- in my first semester so I couldn’t graduate with a perfect GPA—now I think of it, *that was so messed up*! Through his wacky grading scale, my advisor taught us to be comfortable with trying to be *good enough for where we are and where we want to be*.
+This blew my mind and changed my life. I was not just born a perfectionist; I was socialized into one. Hell, one of my biggest regrets in college was getting an A- in my first semester so I couldn’t graduate with a perfect GPA—now I think of it, *that was so messed up*! Through his wacky grading scale, my advisor taught us to be comfortable with trying to be *good enough for where we are and where we want to be*.
 
 I’d love to try something similar in our class. Really, think of this as a 7-point scale: if your goal is an A, aim for a 7.
 
