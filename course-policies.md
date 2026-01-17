@@ -15,7 +15,7 @@ If there is something you’d like us to know, please also email me and our TA t
 
 ## Late Assignments, Extensions, and Make-Ups
 
-No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show us any kind of documentation.
+No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let us know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show us any kind of documentation.
 
 We always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as health (including mental health), child care, and family emergencies. We can always work something out, but it’s important that you contact me as soon as you can.
 
