@@ -2,13 +2,14 @@
 layout: post
 title: "Our Wacky Grading Scale"
 module: "Assignments"
+tag: nodate
 ---
 
 One of the best times I had in grad school was a seminar taught by my doctoral advisor Jason Turner, who graded us on a funny scale.
 
 At Arizona, the grades we got on assignments already didn’t matter, if they were graded at all. Faculty told us early on that experimenting—and failing in so doing—*was* learning for graduate students; to encourage this, they made it a departmental norm to give all of us A’s unless something was seriously awry.
 
-My advisor went one step further: Even if his grades didn’t matter in the end, they could still serve a powerful pedagogical function—to signal to us how we were progressing as we learned to become scholars and produce work of publishable quality. If getting a ‘10’ meant “publish this as is” then, a 7 or even an 8 gave first- and second-year PhD students something to feel proud of. These numbers no longer had the same meanings as a ‘C’ or ‘B.’
+My advisor went one step further: Even if his grades didn’t matter in the end, they could still serve a powerful pedagogical function—to signal to us how we were progressing as we learned to become scholars and produce work of publishable quality. If getting a ‘10’ meant “publish this as is” then, a 7 or even an 8 gave first- and second-year PhD students something to feel proud of. These numbers no longer held the same meanings as a ‘C’ or ‘B.’
 
 This blew my mind and changed my life. I was not just born a perfectionist; I was socialized into one. Hell, one of my biggest regrets in college was getting an A- in my first semester so I couldn’t graduate with a perfect GPA—now I think of it, *that was so messed up*! Through his wacky grading scale, my advisor taught us to be comfortable with trying to be *good enough for where we are and where we want to be*.
 
@@ -16,7 +17,7 @@ I’d love to try something similar in our class. Really, think of this as a 7-p
 
 - 10: Perfection (impossible).
 - 9.5: This is among the best philosophy I’ve ever read (think Plato).
-- 9.0: Fully competent journal article; “publishable.”
+- 9.0: Polished journal article; “publishable.”
 - 8.5: Excellent seminar paper by PhD students.
 - 8.0: This is *truly so good*; it goes well beyond my expectations for undergraduate students.
 - 7.5: Unusually notable work; it is powerful, sophisticated, insightful, engaging, and beautifully executed.
