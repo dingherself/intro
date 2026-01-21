@@ -91,11 +91,11 @@ For this class, I will use in-class activities (which will be graded for complet
 
 ### Shorties
 
-For at least five classes this semester, you will write a short discussion post responding to that day’s readings. These “shorties” should ideally be 200–300 words, and definitely no more than 500 words (for reference, this subsection on shorties is 268 words).
+For at least five classes this semester, you will write a short discussion post responding to that day’s readings. These “shorties” should ideally be 200–300 words, and definitely no more than 500 words (for reference, this subsection on shorties is 239 words).
 
 The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stakes opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
 
-You may choose any five classes to write shorties for, as long as you do at least one for each of our three modules—love, gender, and sex. You may also write more than five shorties, in which case only your best five shorties will count toward your final grade.
+You may choose any five classes to write shorties for. You may also write more than five shorties, in which case only your best five shorties will count toward your final grade.
 
 Shorties are due to CourseWorks > Discussions **by 7:30pm the day before the class**. So, for example, a shorty on a Wednesday’s readings would be due by 7:30pm on the Tuesday of that same week.
 

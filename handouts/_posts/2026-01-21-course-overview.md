@@ -73,7 +73,7 @@ Philosophy is an *activity* we do, not specific facts to be memorized.
 - For me, a philosophy classroom is not where students come to passively learn about different philosophies (though we will of course do a lot of learning!).
 - It’s where we come to *do philosophy together*—think of us as a book club!
 
-We will approach this class as a themed first course in philosophy.
+We will approach this class as a first course in philosophy.
 
 - Take a look at all the helpful [advice from previous students](https://intro.dingherself.com/handouts/advice-from-previous-students.html).
 - Read the assigned texts carefully and critically before class (see also the participation section of our syllabus for advice).
