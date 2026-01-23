@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Classroom changed to Milbank 323"
+title: "Classroom Changed to Milbank 323"
 ---
 
 Dear class,
