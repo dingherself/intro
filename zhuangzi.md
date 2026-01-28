@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: <em>Zhuangzi</em> Selections
 ---
-
-# *Zhuangzi* Selections
 
 *Excerpts from Philip J. Ivanhoe and Bryan W. Van Norden, eds.,* Readings in Classical Chinese Philosophy*, 3rd ed. (Indianapolis, IN: Hackett, 2023).*
 
