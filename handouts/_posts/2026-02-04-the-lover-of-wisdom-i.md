@@ -22,16 +22,16 @@ Literally, “love of wisdom.”
 
 ### The philosophers
 
-The philosophers are delineated by way of two negative contrasts:
+The philosophers are delineated by way of two contrasts:
 - The philosophers are not ordinary folks.
-- The philosophers are not other intellectuals.
+- The philosophers, whose craft is reason, are not other intellectuals. [Hyunsung]
   - Not poets like Hesiod or Homer.
     - The philosophers are after naturalistic explanations of the world—i.e., those that do not involve the supernatural.
   - Plato: Also not *sophists* like Protagoras.
     - The sophists were professional public speakers who traveled to teach wisdom.
-    - According to Plato, whereas a philosopher like Socrates is seriously interested in seeking the truth, sophists merely rely on rhetoric (“sophistry”) and please the crowd.
+    - According to Plato, whereas a philosopher like Socrates is seriously interested in seeking the truth, sophists merely rely on rhetoric (“sophistry”) and please the crowd. [Nimisha, Lea]
   - So, quite ironically, not everyone who loves wisdom counts as a philosopher!
-- Note that there isn’t a contrast between philosophy and what would we today think of as science (e.g., Parmenides on pregnancy/sex, B17–18).
+- Note that there isn’t a contrast between philosophy and what would we today think of as science (e.g., Parmenides on pregnancy/sex, B17–18). [Nikita, Lucy, Charlie]
 
 ### Pre-Socratic philosophers
 
@@ -46,15 +46,15 @@ Literally, philosophers prior to Socrates.
 
 Starting point: 
 
-- The world is *ordered*: There is a naturalistic/non-supernatural principle (“first principle”) that governs, drives, and explains the world.
-- This principle is *intelligible*: It’s feasible, even if difficult, to know it through human reason.
+- The world is *ordered*: There is a naturalistic/non-supernatural principle (“first principle”) that governs, drives, and explains the world. [Nikita, Candence]
+- This principle is *intelligible*: It’s feasible, even if difficult, to know it through human reason. [Yasmine]
 
 Two closely connected meanings of *logos*:
 
 - The explanatory/organizing *principle* of the world.
 - *Reason*, including its product—rational explanation.
 
-Cf. Parmenides’ goddess (fr. 2):
+Cf. Parmenides’ goddess (fr. 2): [Willow, Sofia, Samantha]
 
 > But come now, I will tell you—and you, when you have heard the story, bring it safely away—<br />
 > which are the only routes of inquiry that are for thinking:<br />
@@ -76,15 +76,18 @@ Among the Pre-Socratics, the first principle is characteristically identified as
 ## Another illustrative example: Sappho of Lesbos
 
 - Entry in Witting & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
-  - Both “sapphic” and “lesbian” allude to Sappho.
-
+  - Both “sapphic” and “lesbian” allude to Sappho. [Lilah]
 - Not generally recognized as a lesbian until quite recently.
+  - [r/SapphoAndHerFriends](https://www.reddit.com/r/SapphoAndHerFriend/comments/mim4x0/my_reading_for_gender_perspective_says_sappho/)
+  - Translations: Frs. [126](https://www.reddit.com/r/SapphoAndHerFriend/comments/s2htby/this_is_literally_sappho_and_her_friend/) and [102](https://www.reddit.com/r/SapphoAndHerFriend/comments/1dtd23n/the_first_sappho_poetry_book_i_bought_and_i_come/).
   - Patriarchy took my girl: Fr. 31.
   - Too gay to function: Fr. 94.
   - Women are so pretty: Fr. 108.
 - Not generally recognized as a philosopher.
-  - In addition to love/*eros* (a full-body experience vs. a mere feeling), Sappho reflects on desire, longing (“yearn”), memory, change, sorrow, family, [women’s] beauty …
+  - In addition to *eros*, Sappho reflects on desire, longing (“yearn”) [Sophie], memory, change, sorrow, family, [women’s] beauty …
     - “[Brothers Song](https://www.amacad.org/publication/daedalus/new-brothers-poem-sappho)” rediscovered in 2014.
-  - But she loves wisdom in an affective (cf. rational—but be careful about drawing a sharp line) way: A focus on the sensual, the bodily, the erotic.
-  - Who gets to decide who is a philosopher? What counts as philosophical? What’s at stake?
+  - But she loves wisdom in an affective (cf. rational—but be careful about drawing a sharp line) way: A focus on the sensual, the bodily, the erotic. [Lucy]
+    - Love is the “loosener of limbs, bittersweet and inescapable” which “seizes” us in a full-body experience (fr. 130).
+    - Is Sappho too delicate/soft when sapphic love is so intense?
+  - Who gets to decide who is a philosopher? What counts as philosophical? What’s at stake? [Charlie]
 - “I say someone in another time will remember us” (fr. 147).
