@@ -84,7 +84,7 @@ Among the Pre-Socratics, the first principle is characteristically identified as
   - Women are so pretty: Fr. 108.
 - Not generally recognized as a philosopher.
   - In addition to love/*eros* (a full-body experience vs. a mere feeling), Sappho reflects on desire, longing (“yearn”), memory, change, sorrow, family, [women’s] beauty …
-    - “Brothers Song”: Rediscovered in 2014.
+    - “[Brothers Song](https://www.amacad.org/publication/daedalus/new-brothers-poem-sappho)” rediscovered in 2014.
   - But she loves wisdom in an affective (cf. rational—but be careful about drawing a sharp line) way: A focus on the sensual, the bodily, the erotic.
-  - Who gets to decide who is a philosopher? What’s at stake?
+  - Who gets to decide who is a philosopher? What counts as philosophical? What’s at stake?
 - “I say someone in another time will remember us” (fr. 147).
