@@ -75,7 +75,7 @@ Among the Pre-Socratics, the first principle is characteristically identified as
 
 ## Another illustrative example: Sappho of Lesbos
 
-- Entry in Witting & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
+- Entry in Wittig & Zerg’s [*Lesbian Peoples: Material for a Dictionary*](https://archive.org/details/lesbianpeoplesma00witt).
   - Both “sapphic” and “lesbian” allude to Sappho. [Lilah]
 - Not generally recognized as a lesbian until quite recently.
   - [r/SapphoAndHerFriends](https://www.reddit.com/r/SapphoAndHerFriend/comments/mim4x0/my_reading_for_gender_perspective_says_sappho/)
