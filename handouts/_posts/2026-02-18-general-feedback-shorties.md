@@ -16,7 +16,7 @@ tag: nodate
 
 - We will institute a soft limit of 6 shorties: If you are interested in materials, come talk to us in office hours please! If you’d like to improve, you must still come to office hours for feedback first.
 - The shorties are now graded out of “0”—Canvas requires us to put in a number, unfortunately.
-- We expect students to “own up to” what they write in shorties. If you say something we find *really* interesting or puzzling, we will ask you to discuss and defend (not merely talk about) it in class.
+- We expect students to “own up to” what they write in shorties. If you say something we find *really* interesting or puzzling, we will invite you to discuss and defend (not merely talk about) it in class.
 
 ## Common problems
 
@@ -24,7 +24,7 @@ tag: nodate
 2. **Don’t *just* ask questions**—we want to see you work out your own answer, even if it’s not fully satisfying to you.
 3. **Please show your work**—where are you getting this from? Interpretations are not free; you have to pay with textual evidence.
 4. **Don’t attack a strawman**—pick a real fight and let the poor strawman live.
-5. **Pick your fight**—go deep, not broad.
+5. **Pick your battles**—go deep, not broad. “Contain philosophical problems one at a time.”
 6. **Get to the point**—we are ultimately so much more interested in what *you* think!
 7. **Respect the word limit**—we will stop reading if it’s too long.
 8. **We’ve heard this already**—if other students are discussing an idea already, don’t reinvent the wheel. Be part of the conversation.
