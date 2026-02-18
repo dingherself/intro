@@ -8,7 +8,7 @@ tag: nodate
 ## Tips
 
 - Instead of writing “up” to me as the professor, try addressing your shorties to your classmates (yes, you can—and *should*—respond to each other and reference class discussions!).
-- If you are new to philosophy, the best way to think of your task is “I’m going to tell the class about this one thing the reading is so wrong about.”
+- If you are relatively new to philosophy, the best way to think of your task is “I’m going to tell the class about this one thing the reading is *so* wrong about.”
 - Try a [three-part structure](https://resources.dingherself.com/writing/objection-reply-style.html): Exposition ⇒ Objection ⇒ Reply.
 - Focus—and *focus*—on an idea or an argument you feel strongly about, that gets you going, that fascinates you, upsets you, confuses you, …
 
