@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anselm and Aquinas
+title: Anselm, Ibn Sina, and Aquinas
 module: "Philosophy & religion"
 ---
 
