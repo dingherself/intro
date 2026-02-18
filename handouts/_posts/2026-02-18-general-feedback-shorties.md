@@ -17,6 +17,7 @@ tag: nodate
 - We will institute a soft limit of 6 shorties: If you are interested in materials, come talk to us in office hours please! If you’d like to improve, you must still come to office hours for feedback first.
 - The shorties are now graded out of “0”—Canvas requires us to put in a number, unfortunately.
 - We expect students to “own up to” what they write in shorties. If you say something we find *really* interesting or puzzling, we will invite you to discuss and defend (not merely talk about) it in class.
+- We are giving detailed written feedback early on; we’d still be very happy to discuss your shorties with you in office hours even if you don’t receive as extensive comments after the first month of class.
 
 ## Common problems
 
