@@ -5,7 +5,7 @@ module: "Assignments"
 tag: nodate
 ---
 
-Due: Friday, March 6, by midnight, to CourseWorks > Assignments\
+Due: Friday, March 13, by midnight, to CourseWorks > Assignments\
 Format: 4–6 pages, double spaced
 
 **Assignment**: Limiting yourself to the texts we’ve read so far, please argue for/against a specific answer to *one* of the following questions:
