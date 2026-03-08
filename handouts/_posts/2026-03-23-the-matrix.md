@@ -5,7 +5,7 @@ module: "Assignments"
 tag: nodate
 ---
 
-*Due*: Wednesday, March 25, by the beginning of class, to CourseWorks > Discussions\
+*Due*: Wednesday, March 25, by midnight, to CourseWorks > Discussions\
 *Format*: Short video recording of your post-movie discussion, along with a brief note describing when/where your screening took place and who participated in it
 
 Please host a screening of [*The Matrix*](https://clio.columbia.edu/catalog/20032123) (streamable through the library) with at least two classmates, friends, and/or family members; I’ll make a discussion thread for those looking to invite others.
