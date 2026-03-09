@@ -29,6 +29,11 @@ Trilemma: Three statements seem true individually but cannot be true together.
 
 One of the three has to go.
 
+Theodicy: Attempt to justify God’s existence with evil.
+
+- Maimonides’ divine providence
+- The free will defense
+
 ### The problem of free will
 
 Very important: Determinism ≠ fate.
