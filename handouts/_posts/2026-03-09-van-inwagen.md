@@ -19,7 +19,7 @@ Free will: A special kind of *control* at issue in moral responsibility (esp. pr
 
 ## The free will problem
 
-Trilemma: Three statements seem true individually but cannot be true together.
+*Trilemma*: Three statements seem true individually but cannot be true together.
 
 ### The problem of evil
 
@@ -36,7 +36,12 @@ Theodicy: Attempt to justify God’s existence with evil.
 
 ### The problem of free will
 
-Very important: Determinism ≠ fate.
+*Determinism* (≠ fate): At any time only one future is physically possible.
+
+- Theological determinism: Every event is necessitated by God.
+- Causal determinism: Every event is necessitated by a physical cause.
+
+Trilemma:
 
 1. We have free will.
 2. Free will is incompatible with determinism.
