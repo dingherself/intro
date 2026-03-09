@@ -38,8 +38,8 @@ Theodicy: Attempt to justify God’s existence with evil.
 
 *Determinism* (≠ fate): At any time only one future is physically possible.
 
-- Theological determinism: Every event is necessitated by God.
-- Causal determinism: Every event is necessitated by a physical cause.
+- Theological determinism: Every event is necessitated/fixed by God.
+- Causal determinism: Every event is necessitated/fixed by a physical cause.
 
 Trilemma:
 
