@@ -70,7 +70,7 @@ Very important: Determinism ≠ fate.
     <td class="tg-nrix">False</td>
   </tr>
   <tr>
-    <td class="tg-yla0" rowspan="2">Hard incompatibilism</td>
+    <td class="tg-wa1i" rowspan="2">Hard incompatibilism</td>
     <td class="tg-wa1i">Hard determinism</td>
     <td class="tg-nrix">False</td>
     <td class="tg-nrix">False</td>
