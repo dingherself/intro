@@ -117,7 +117,7 @@ Contemporary controversy: Whether what gives us free will is an “ability to do
 
 Informal statement of the argument:
 
-> If determinism is true, then our acts are the consequences of the laws of nature and events of the remote past. But it is not up to us what went on before we were born, and neither is it up to us what the laws of nature are. Therefore, the consequences of these things (including our present acts) are not up to us.
+> If determinism is true, then our acts are the consequences of the laws of nature and events of the remote past. But it is not up to us what went on before we were born, and neither is it up to us what the laws of nature are. Therefore, the consequences of these things (including our present acts) are not up to us. (*An Essay on Free Will*, p. 16)
 
 He formulates determinism in terms of logical entailment:
 
