@@ -13,7 +13,7 @@ module: "Knowledge & skepticism"
 
 - Debrief *The Matrix*: Red pill or the blue pill? (In what ways, if any, does it matter?)
 - *Skeptical scenarios*: Appearance (how things *seem* to be) comes apart from reality (how things in fact *are*).
-  - Methodology: Constructive use of doubt to clear old systems of belief and establish a secure foundation for knowledge (incl. his physics & mathematics)
+  - Methodology: Constructive use of doubt to bulldoze old systems of belief and establish a secure foundation for knowledge (incl. his physics & mathematics)
   - The Matrix
   - The butterfly/Cartesian dream
   - The Cartesian evil demon (his own answer: *Cogito, ergo sum*; I think, therefore I am.)
