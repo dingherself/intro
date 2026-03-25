@@ -19,7 +19,7 @@ module: "Knowledge & skepticism"
   - The Cartesian evil demon (his own answer: *Cogito, ergo sum*; I think, therefore I am.)
   
 
-> I will suppose . . . some malicious demon of the utmost power and cunning has employed all his energies in order to deceive me. I shall think that the sky, the air, the earth, colours, shapes, sounds and all external things are merely the delusions of dreams which he has devised to ensnare my judgement. I shall consider myself as not having hands or eyes, or flesh, or blood or senses, but as falsely believing that I have all these things. (AT 23)
+> “I will suppose . . . some malicious demon of the utmost power and cunning has employed all his energies in order to deceive me. I shall think that the sky, the air, the earth, colours, shapes, sounds and all external things are merely the delusions of dreams which he has devised to ensnare my judgement. I shall consider myself as not having hands or eyes, or flesh, or blood or senses, but as falsely believing that I have all these things.” (AT 23)
 
 - Announcements [save 5 min]
   - [Pacific APA](https://www.apaonline.org/mpage/2026pacific) in April
