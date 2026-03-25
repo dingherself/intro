@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Descartes, Zhuangzi, and The Matrix"
+title: Descartes, Zhuangzi, and <em>The Matrix</em>
 module: "Knowledge & skepticism"
 ---
 
 <center>
-<a href='https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2e23r4woge511.jpg'><img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2e23r4woge511.jpg" class="img-fluid" style="max-width: 50%;" alt="Zhuangzi pointing to a butterfly: Is this me?"></a>
-<a href='https://i.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf'><img src="https://i.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf" class="img-fluid" style="max-width: 50%;" alt="Descartes pointing to a butterfly: Is this a dream?"></a>
+<a href="https://preview.redd.it/saw-this-browsing-facebook-thought-you-guys-would-appreciate-v0-2e23r4woge511.jpg?auto=webp&s=61756de4b45b238bcd7add8359197516ccc875a7"><img src="https://preview.redd.it/saw-this-browsing-facebook-thought-you-guys-would-appreciate-v0-2e23r4woge511.jpg?auto=webp&s=61756de4b45b238bcd7add8359197516ccc875a7" class="img-fluid" style="max-width: 50%;" alt="Zhuangzi pointing to a butterfly: Is this me?"></a>
+<a href="https://preview.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf"><img src="https://preview.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf" class="img-fluid" style="max-width: 50%;" alt="Descartes pointing to a butterfly: Is this a dream?"></a>
 </center>
 
 ## Today
