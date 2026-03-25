@@ -4,7 +4,7 @@ title: Descartes, Zhuangzi, and <em>The Matrix</em>
 module: "Knowledge & skepticism"
 ---
 
-<center>
+<center class="mb-5">
 <a href="https://preview.redd.it/saw-this-browsing-facebook-thought-you-guys-would-appreciate-v0-2e23r4woge511.jpg?auto=webp&s=61756de4b45b238bcd7add8359197516ccc875a7"><img src="https://preview.redd.it/saw-this-browsing-facebook-thought-you-guys-would-appreciate-v0-2e23r4woge511.jpg?auto=webp&s=61756de4b45b238bcd7add8359197516ccc875a7" class="img-fluid" style="max-width: 48%;" alt="Zhuangzi pointing to a butterfly: Is this me?"></a>
 <a href="https://preview.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf"><img src="https://preview.redd.it/philosophy-memes-i-made-for-extra-credit-for-class-v0-i8njy7dohdrc1.jpg?width=556&format=pjpg&auto=webp&s=4b4b79814d8ea688e5743c3ba1043f7d61879dbf" class="img-fluid" style="max-width: 48%;" alt="Descartes pointing to a butterfly: Is this a dream?"></a>
 </center>
