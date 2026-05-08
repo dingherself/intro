@@ -5,7 +5,7 @@ module: "Assignments"
 tag: nodate
 ---
 
-Due: Friday, May 8, by midnight, to CourseWorks > Assignments\
+Extended due date: Saturday, May 9, by midnight, to [this submission form](https://forms.gle/kAmAYeDGTMhSZR5W9)\
 Format: 4–6 pages, double spaced
 
 **Assignment**: Limiting yourself to the texts we’ve read so far, please argue for/against a specific answer to *one* of the following questions:
