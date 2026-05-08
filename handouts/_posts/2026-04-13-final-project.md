@@ -5,7 +5,7 @@ module: "Assignments"
 tag: nodate
 ---
 
-Due: Wednesday, May 13, by midnight, to CourseWorks
+Due: Wednesday, May 13, by midnight, to [this submission form](https://forms.gle/cULVGcihMit9i8fU6)
 
 Please choose ***<u>one</u>*** of the following options for your final project.
 
