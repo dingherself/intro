@@ -194,6 +194,10 @@ $alert-padding-x:  $spacer * .875;
     --bs-btn-disabled-color: #{$dingdarkred};
     --bs-btn-disabled-border-color: #{$dingdarkred};
   }
+
+  * {
+    --bs-primary-rgb: var(--bs-link-color-rgb);
+  }
 }
 
 nav[data-toggle="toc"] .nav .active .nav {
@@ -240,6 +244,10 @@ h6, .h6, h5, .h5, h4, .h4 {
 li {
   margin-bottom: 1pt;
   line-height: 1.6;
+}
+
+em em {
+  font-style: normal;
 }
 
 blockquote {
